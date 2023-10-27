@@ -16,7 +16,7 @@ The objective of this project is to:
 # Project Structure
 The structure of this project is as follows:
 
-- data: A folder that contains the M2C dataset, including two subfolders en and fr, which store the English and French versions of the data respectively.
+- data: A folder that contains the M2C dataset, including two subfolders en and fr, which store the English and French versions of the data respectively (coming soon).
 - src: A folder that contains the source code of the FVP-M2 method, including the code for feature encoding, fine-grained visual prompt generation, and dialogue complement modules.
 - models: A folder that contains the trained models of the FVP-M2 method, including two subfolders en and fr, which store the English and French versions of the models respectively.
 - results: A folder that contains the experimental results of the FVP-M2 method on the M2C dataset, including two subfolders en and fr, which store the English and French versions of the results respectively.
