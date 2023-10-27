@@ -48,5 +48,6 @@ This project is contributed by:
 # Project License
 This project is open-sourced under the MIT license. For more details, please see the LICENSE file.
 
-#Citation
-Feel free to cite us.
+# Citation
+Feel free to cite us if you feel motivated.
+
